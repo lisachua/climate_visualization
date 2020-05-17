@@ -1,0 +1,12 @@
+name: GlobalCO2EmissionsTempAnom
+title: GlobalCO2EmissionsTempAnom
+username:
+account: lchua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 839448
+bundleId: 1987263
+url: https://lchua.shinyapps.io/GlobalCO2EmissionsTempAnom/
+when: 1554405242.51712
+asMultiple: FALSE
+asStatic: FALSE
