@@ -1,5 +1,4 @@
 # Climate Data Application
-![](poster.png)
 
 ## Introduction:
 The purpose of our climate data application is to display historical data on CO2 emissions and temperature anomaly side by side in a cohesive way. We will be creating three displays; a line graph, spiralized graph and world map.
