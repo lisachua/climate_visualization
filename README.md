@@ -7,6 +7,8 @@ The purpose of this climate data application is to display historical data on CO
 This application uses two datasets. The first is a dataset from the National Oceanic and Atmospheric Administration’s (NOAA) Global Historical Climatology Network. It contains global average temperature anomalies in degrees Celsius for every month from January 1880 to 2017. The data can be found at https://www.ncdc.noaa.gov/cag/data-info/global.
 
 ## Displays
+![](climate_shiny_app.mp4)
+
 ### Line
 The line graph plots two linear regressions, one for world average CO2 emissions over year and one for world average temperature anomaly over year. On the x-axis is year. The y-axis is a dual axis with tonnes per person on one side and temperature anomaly on the other. Using the side panel, the user will be able to select the year range to display.
 * <b>Interactive Features:</b> hovering the mouse over any point on the regression line will display the year and temperature anomaly or CO2 emission.
