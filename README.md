@@ -18,7 +18,7 @@ The spiralized graph plots average CO2 emissions and average temperature anomaly
 * <b>Interactive Features:</b> hovering the mouse over any point on the spiralized graph will 
 display the year, temperature anomaly and CO2 emission.
 
-### World Map:
+### World Map
 The world map plots CO2 emissions by country, with the fill being animated by year. Using the side panel, the user will be able to select the year range to animate.
-* <b> Interactive Features:</b clicking on any colored area of the map will display the country name and CO2 emission level for that year.
+* <b> Interactive Features:</b> clicking on any colored area of the map will display the country name and CO2 emission level for that year.
 
