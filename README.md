@@ -1,10 +1,10 @@
 # Climate Data Application
 
 ## Introduction:
-The purpose of our climate data application is to display historical data on CO2 emissions and temperature anomaly side by side in a cohesive way. We will be creating three displays; a line graph, spiralized graph and world map.
+The purpose of this climate data application is to display historical data on CO2 emissions and temperature anomaly side by side in a cohesive way. The application contains three displays; a line graph, spiralized graph and world map.
 
 ## Data
-We will be using two datasets. The first is a dataset from the National Oceanic and Atmospheric Administration’s (NOAA) Global Historical Climatology Network. It contains global average temperature anomalies in degrees Celsius for every month from January 1880 to 2017. The data can be found at https://www.ncdc.noaa.gov/cag/data-info/global.
+This application uses two datasets. The first is a dataset from the National Oceanic and Atmospheric Administration’s (NOAA) Global Historical Climatology Network. It contains global average temperature anomalies in degrees Celsius for every month from January 1880 to 2017. The data can be found at https://www.ncdc.noaa.gov/cag/data-info/global.
 
 ## Displays
 ### Line
